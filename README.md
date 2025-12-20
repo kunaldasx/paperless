@@ -4,13 +4,13 @@
 
 ![Full-stack Realtime Google Docs Clone using Next.js 15 and Convex](/.github/images/img_main.png 'Full-stack Realtime Google Docs Clone using Next.js 15 and Convex')
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy 'Ask Me Anything!')
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/google-docs-clone/blob/main/LICENSE 'GitHub license')
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/google-docs-clone/commits/main 'Maintenance')
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/google-docs-clone/branches 'GitHub branches')
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/google-docs-clone/commits 'Github commits')
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/google-docs-clone/issues 'GitHub issues')
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/google-docs-clone/pulls 'GitHub pull requests')
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/kunaldasx 'Ask Me Anything!')
+[![GitHub license](https://flat.badgen.net/github/license/kunaldasx/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/kunaldasx/google-docs-clone/blob/main/LICENSE 'GitHub license')
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/kunaldasx/google-docs-clone/commits/main 'Maintenance')
+[![GitHub branches](https://flat.badgen.net/github/branches/kunaldasx/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/kunaldasx/google-docs-clone/branches 'GitHub branches')
+[![Github commits](https://flat.badgen.net/github/commits/kunaldasx/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/kunaldasx/google-docs-clone/commits 'Github commits')
+[![GitHub issues](https://flat.badgen.net/github/issues/kunaldasx/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/kunaldasx/google-docs-clone/issues 'GitHub issues')
+[![GitHub pull requests](https://flat.badgen.net/github/prs/kunaldasx/google-docs-clone?icon=github&color=black&scale=1.01)](https://github.com/kunaldasx/google-docs-clone/pulls 'GitHub pull requests')
 [![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clone-gdocs.vercel.app 'Vercel status')
 
 <!-- Table of Contents -->
@@ -279,12 +279,12 @@ Useful resources and dependencies that are used in Docs.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy 'Buy me a Coffee')
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/kunaldasx 'Buy me a Coffee')
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy 'Follow Me')
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_sanidhyy)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fgoogle-docs-clone 'Tweet about this project')
+[![Follow Me](https://img.shields.io/github/followers/kunaldasx?style=social&label=Follow&maxAge=2592000)](https://github.com/kunaldasx 'Follow Me')
+[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_kunaldasx)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fkunaldasx%2Fgoogle-docs-clone 'Tweet about this project')
 
 ## :books: Learn More
 
@@ -304,16 +304,6 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 ## :star: Give A Star
 
 You can also give this repository a star to show more people and they can use this repository.
-
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/google-docs-clone&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/google-docs-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/google-docs-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/google-docs-clone&type=Timeline" />
-</picture>
-</a>
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

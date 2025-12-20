@@ -12,9 +12,9 @@
     "format:fix": "prettier --write . --config .prettierrc.mjs"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Kunal Das",
+    "email": "kunaldasx@gmail.com",
+    "url": "https://github.com/kunaldasx"
   },
   "description": "Full-stack Realtime Google Docs Clone using Next.js 15 and Convex..",
   "keywords": [
@@ -60,21 +60,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/google-clone-clone.git"
+    "url": "https://github.com/kunaldasx/google-clone-clone.git"
   },
-  "homepage": "https://github.com/sanidhyy/google-clone-clone#readme",
+  "homepage": "https://github.com/kunaldasx/google-clone-clone#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/google-clone-clone/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/kunaldasx/google-clone-clone/issues",
+    "email": "kunaldasx@gmail.com"
   },
   "funding": [
     {
       "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "url": "https://www.patreon.com/kunaldasx"
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://www.buymeacoffee.com/kunaldasx"
     }
   ],
   "dependencies": {
